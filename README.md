@@ -52,3 +52,5 @@ Employee attrition is a critical challenge for organizations, often leading to i
 
 ## 📸 Screenshots / Demos
 
+![HR Analytics Dashboard](https://github.com/AribaAliAsghar/hr_Analytics_dashboard/blob/main/hr_analytics_dashboard.PNG)
+
